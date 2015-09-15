@@ -2,6 +2,14 @@
 
 Terminal SlideDeck.
   (for back end devs)
+  
+---
+
+Get started:
+
+```sh
+npm install -g tslide
+```
 
 ---
 
