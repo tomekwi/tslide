@@ -19,7 +19,7 @@ tslide README.markdown
 
 each slide is a section of a markdown document.
 
-"sections" are split at lines that start with `#`
+"sections" are split at horizontal rules (`/---+\n/`).
 
 ---
 
